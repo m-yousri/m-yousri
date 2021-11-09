@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohammed Yousri.
+I had NES since I was 3-ish years old and I fall in love with games, then I had my first computer when I was 6 years old and since then all I care about is how this machine could run these games. So here I'm! a software engineer who loves building anything computer related.
+
+### Me in other worlds
+<p><a href="https://twitter.com/u3_null" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yousri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/u3.null/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>
+</p>
+
 
 <!--
 **m-yousri/m-yousri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
