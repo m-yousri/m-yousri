@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Mohammed Yousri, just call me *U3* as you pronounce it.
 I had NES since I was 3-ish years old and I fall in love with games, then I had my first computer when I was 6 years old and since then all I care about is how this machine could run these games. So here I'm! a software engineer who loves building anything computer related.
 
+### Me In Other Worlds
+<p><a href="https://twitter.com/u3_null" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yousri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/u3.null/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>
+</p>
+
 ### My Love Language
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-0D7BDF.svg?&logo=linux&logoColor=white" />
@@ -41,6 +45,5 @@ I had NES since I was 3-ish years old and I fall in love with games, then I had 
   <img alt="Selenium" src="https://img.shields.io/badge/selenium-059E43.svg?&logo=selenium&logoColor=white" />
 </p>
 
-### Me In Other Worlds
-<p><a href="https://twitter.com/u3_null" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yousri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/u3.null/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>
-</p>
+### Stats For Nerds
+<p><img src="https://github-readme-stats.vercel.app/api?username=m-yousri&show_icons=true&locale=en&theme=chartreuse-dark&&count_private=true&include_all_commits=true" alt="m-yousri" /></p>
