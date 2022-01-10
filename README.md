@@ -5,7 +5,7 @@ I had NES since I was 3-ish years old and I fall in love with games, then I had 
 <p><a href="https://twitter.com/u3_null" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yousri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/u3.null/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </p>
 
-### My Love Language
+### My Love Languages
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-0D7BDF.svg?&logo=linux&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&logo=c-sharp&logoColor=white" />
